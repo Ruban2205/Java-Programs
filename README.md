@@ -21,16 +21,21 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 ### Topics
 
-1. [Control-Statements-in-Java](/1-Control-Statements-in-Java)
-2. [Arrays-in-java](/2-Arrays-in-java)
-3. [Text-processing-using-java-strings](/3-Text-processing-using-java-strings)
-4. [Classes-and-Objects-in-Java](/4-Classes-and-Objects-in-Java)
-5. [Application-using-Interface](/5-Application-using-Interface)
-6. [Compartmentalizing-the-Code-using-package](/6-Compartmentalizing-the-Code-using-package)
-7. [Exception-handling-in-Java](/7-Exception-handling-in-Java)
+1. [Control Statements In Java](/1-Control-Statements-in-Java)
+2. [Arrays in Java](/2-Arrays-in-java)
+3. [Text Processing using Java Strings](/3-Text-processing-using-java-strings)
+4. [Classes and Objects using Java Classes](/4-Classes-and-Objects-in-Java)
+5. [Application using Interface](/5-Application-using-Interface)
+6. [Compartmentalizing the Code using Package](/6-Compartmentalizing-the-Code-using-package)
+7. [Exception Handling in Java](/7-Exception-handling-in-Java)
 8. [MultiThreading](/8-MultiThreading)
-9. [FileHandling](/9-FileHandling)
-10. [JavaSwingGUI](/10-JavaSwingGUI)
+9. [File Handling](/9-FileHandling)
+10. [Java Swing GUI](/10-JavaSwingGUI)
+
+### Languages and Tools Used
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
 
 ### LICENCE 
 
