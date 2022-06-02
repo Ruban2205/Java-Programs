@@ -39,7 +39,7 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 ### LICENCE 
 
-This repository is released under MIT LICENCE. See [LICENCE](/LICENCE) for more details. 
+This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
 
 ### Contact
 
