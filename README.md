@@ -46,7 +46,7 @@ HTML – Programming– applet initialization and terminatipon – Applet skelet
 #### Module-4: A Tour of Swing
 Japplet –Icons and Labels – Text fields –Buttons – Combo Boxes – Tabbed Panes – Scroll -Panes – Tables–Trees. JDBC: ODBC – RDBMS Concepts – Setting up a database – Setting up tables – Establishing connection – Getting Data from a table –Prepated Statements–Callable Statements – Stored Procedures – DastabaseMetadata –ResultsetMetadata.
 
-### Module-5: Networking _Basis
+#### Module-5: Networking _Basis
 Java and Net – InetAddress –TCP/IP Client socket – URL Connection –TCP/IP Server socket – Datagrams. Servlets : Life cycle of servlet – jsdk – A simple servlet – Servlet API – javax.servlet Package Reading servlet parameters – Reading initialisation parameters– javax.servlet.http
 Package – Handling HTTP Request and response –Using Cookies.
 
