@@ -1,4 +1,4 @@
-# Java-Programs
+# Java-Programs 👨‍💻
 
 Hello 👋 Java developers and aspiring Java learners. Are you trying to find the greatest repository to practice Java programs? You can find a repository here. This [repository](https://github.com/Ruban2205/Java-Programs/) contains a variety of Java programmes that illustrate basic to complex object-oriented programming concepts. This repository was created with love and effort to give students and developers the best, most easily understood concepts possible. It contains ten distinct concepts, each with two to five understandable sample programmes. If anyone encounters any faults or errors while browsing the repository. Please let me know by contacting me at info@rubangino.in. I'll offer the possibility to work with this repository 🤝.
 
@@ -8,7 +8,7 @@ click to know more.
 
 [![Wikipedia](https://img.shields.io/badge/JAVA-Wikipedia-00B2FF?style=for-the-badge&logo=web&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
 
-### Object Oriented Programming 
+### Object Oriented Programming 🧑‍💻
 
 Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
 
@@ -19,7 +19,7 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 - Inheritance 
 - Polymorphism
 
-### Topics
+### Topics 📄🗒️
 
 1. [Control Statements In Java](/1-Control-Statements-in-Java)
 2. [Arrays in Java](/2-Arrays-in-java)
@@ -50,12 +50,12 @@ Japplet –Icons and Labels – Text fields –Buttons – Combo Boxes – Tabbe
 Java and Net – InetAddress –TCP/IP Client socket – URL Connection –TCP/IP Server socket – Datagrams. Servlets : Life cycle of servlet – jsdk – A simple servlet – Servlet API – javax.servlet Package Reading servlet parameters – Reading initialisation parameters– javax.servlet.http
 Package – Handling HTTP Request and response –Using Cookies.
 
-## Languages and Tools Used
+## Languages and Tools Used ⚙️🖥️
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
 
-## LICENCE 
+## LICENCE 📚
 
 This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
 
