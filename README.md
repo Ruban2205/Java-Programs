@@ -59,11 +59,18 @@ Package – Handling HTTP Request and response –Using Cookies.
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
 
+
 ## LICENCE 📚
 
-This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+This repository is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code examples for personal or commercial purposes. However, please refer to the license file for more details and legal limitations.
+
+---
 
 🚀 This repository serves as an invaluable resource to expand your Java programming prowess, enabling you to build robust and scalable applications with ease. The programs are accompanied by detailed explanations, comments, and best practices, giving you insights into industry-standard coding practices.
+
+---
+
+Happy coding! If you have any questions or need further assistance, feel free to reach out to me.
 
 <hr/>
 
