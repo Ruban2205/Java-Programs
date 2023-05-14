@@ -47,11 +47,7 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 
 This repository is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code examples for personal or commercial purposes. However, please refer to the license file for more details and legal limitations.
 
----
-
 🚀 This repository serves as an invaluable resource to expand your Java programming prowess, enabling you to build robust and scalable applications with ease. The programs are accompanied by detailed explanations, comments, and best practices, giving you insights into industry-standard coding practices.
-
----
 
 Happy coding! If you have any questions or need further assistance, feel free to reach out to me.
 
