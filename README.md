@@ -36,8 +36,6 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 9. [File Handling](/9-FileHandling)
 10. [Java Swing GUI](/10-JavaSwingGUI)
 
-🚀 This repository serves as an invaluable resource to expand your Java programming prowess, enabling you to build robust and scalable applications with ease. The programs are accompanied by detailed explanations, comments, and best practices, giving you insights into industry-standard coding practices.
-
 ## Modules
 
 #### Module-1: Introduction to JAVA
@@ -64,6 +62,8 @@ Package – Handling HTTP Request and response –Using Cookies.
 ## LICENCE 📚
 
 This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+
+🚀 This repository serves as an invaluable resource to expand your Java programming prowess, enabling you to build robust and scalable applications with ease. The programs are accompanied by detailed explanations, comments, and best practices, giving you insights into industry-standard coding practices.
 
 <hr/>
 
