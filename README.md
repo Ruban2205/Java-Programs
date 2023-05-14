@@ -12,6 +12,8 @@ If you're a student eager to enhance your coding skills or a developer seeking i
 
 If anyone encounters any faults or errors while browsing the repository. Please let me know by contacting me at info@rubangino.in. I'll offer the possibility to work with this repository 🤝.
 
+---
+
 ### Object Oriented Programming 🧑‍💻
 
 Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
@@ -35,7 +37,6 @@ Object-oriented programming (OOP) is a computer programming model that organizes
 8. [MultiThreading](/8-MultiThreading)
 9. [File Handling](/9-FileHandling)
 10. [Java Swing GUI](/10-JavaSwingGUI)
-11. 
 
 ## Languages and Tools Used ⚙️🖥️
 
@@ -58,7 +59,6 @@ Happy coding! If you have any questions or need further assistance, feel free to
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
-
 
 ### Star ⭐ this repository for Future use :)
 
