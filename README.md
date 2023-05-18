@@ -47,6 +47,9 @@ To run the programs in this repository, you need to have the following:
 - Java Development Kit (JDK) installed on your system. 
 - A compatible Java IDE (Integrated Development Environment) such as Eclipse, IntelliJ IDEA, or NetBeans. 
 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+
 Make sure you have the necessary dependencies set up correctly before running the programs. 
 
 ## 🚀 Getting Started 
@@ -54,34 +57,53 @@ Make sure you have the necessary dependencies set up correctly before running th
 To get started with this repository, follow these steps: 
 
 1. Clone the repository to your local machine using the following command: 
-```git clone https://github.com/Ruban2205/Java-Programs.git```
+```
+git clone https://github.com/Ruban2205/Java-Programs.git
+```
 2. Open your preferred Java IDE and import the cloned project. 
 3. Configure the project and build the necessary dependencies. 
 
+## 🔧 Usage
 
-## Languages and Tools Used ⚙️🖥️
+Each program in the repository is self-contained within its respective directory. To run a specific program, locate its directory and open it in your Java IDE. 
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+Feel free to modify the programs or use them as a reference for your own project. If you encounter any issues or having suggestions for improvements, please refer to the <ins>**Contributing**</ins> section below. 
 
+## 🤝 Contributing 
 
-## LICENCE 📚
+Contributions to this repository are welcome! If you would like to contribute to the collection of Java programs, follow these steps: 
 
-This repository is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code examples for personal or commercial purposes. However, please refer to the license file for more details and legal limitations.
+1. Fork the repository to your own GitHub account. 
+2. Create a new branch from the ```main``` branch to work on your changes. 
+3. Make your modifications and additions, ensuring that the code is well-documented and follows best practices. 
+4. Test your changes thoroughly. 
+5. Submit a pull request, explaining the purpose and details of your changes. 
 
-🚀 This repository serves as an invaluable resource to expand your Java programming prowess, enabling you to build robust and scalable applications with ease. The programs are accompanied by detailed explanations, comments, and best practices, giving you insights into industry-standard coding practices.
+Please note that all contributions will be reviewd before being merged into the main repository. 
 
-Happy coding! If you have any questions or need further assistance, feel free to reach out to me.
+## 📄 Licence
+
+The programs in this repository are available under the <ins>**MIT License.**</ins> You are free to use, modify, and distribute the code as per the terms of this license. Refer to the [LICENCE](/LICENCE) file for more information. 
 
 <hr/>
 
-## Contact ☎️📞
+## ☎️ Contact 
+
+If you have any questions, suggestions, or feedback regarding this repository, please feel free to reach out. You can contact the repository owner, [Ruban2205](https://github.com/Ruban2205), through the following channels. 
+
+- GitHub: [Ruban2205](https://github.com/Ruban2205)
+- Email: [info@rubangino.in](https://mailto:info@rubangino.in/)
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
 [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@rubangino.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-gino-singh/)
 
-### Star ⭐ this repository for Future use :)
+Please allow some time for a response, as the owner have other commitments. 
+Constructive feedbad and contributions are highly appreciated. 
+
+Thank you for your interest in this repository!
+
+### Star ⭐ this repository for Future use 😊
 
 Click below to gift 🎁 a book to me.
 
