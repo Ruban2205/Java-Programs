@@ -47,8 +47,11 @@ To run the programs in this repository, you need to have the following:
 - Java Development Kit (JDK) installed on your system. 
 - A compatible Java IDE (Integrated Development Environment) such as Eclipse, IntelliJ IDEA, or NetBeans. 
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+[![Java](https://img.shields.io/badge/Java-JDK-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
+[![Net Beans](https://img.shields.io/badge/Net_Beans-4C2238?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Ruban2205/Java-Programs)
 
 Make sure you have the necessary dependencies set up correctly before running the programs. 
 
