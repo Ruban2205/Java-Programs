@@ -1,6 +1,6 @@
 # 📚 Java-Programs
 
-This repository contains a collection of Java programs that cover various concepts and topics in Java Programming. The programs are designed to help developers enchance their understanding and proficiency in Java. 
+This repository contains a collection of Java programs that cover various concepts and topics in Java Object Oriented Programming. The programs are designed to help developers enchance their understanding and proficiency in Java. 
 
 Java is a popular and widely-used programming language known for its versatility and robustness. This repository serves as a valuable resource for Java developers, providing a diverse set of programs that can be used for learning, reference, or a starting point for buildng more complex applications. 
 
