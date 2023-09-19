@@ -84,9 +84,9 @@ Contributions to this repository are welcome! If you would like to contribute to
 
 Please note that all contributions will be reviewd before being merged into the main repository. 
 
-## 📄 Licence
+## 📄 License
 
-The programs in this repository are available under the <ins>**MIT License.**</ins> You are free to use, modify, and distribute the code as per the terms of this license. Refer to the [LICENCE](/LICENCE) file for more information. 
+The programs in this repository are available under the <ins>**MIT License.**</ins> You are free to use, modify, and distribute the code as per the terms of this license. Refer to the [LICENSE](/LICENSE) file for more information. 
 
 <hr/>
 
